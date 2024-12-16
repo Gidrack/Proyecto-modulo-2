@@ -30,7 +30,6 @@ article{
 p{
     font-size: 30px;
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
-    color: rgb(9, 8, 8);
 }
 h2{
     font-size: 40px;
@@ -59,4 +58,21 @@ h2{
 }
 #blender>p{
     font-size: 50px;
+}
+.redes{
+    background: none;
+    background-color: blue;
+    border-radius: 0%;
+    border: 0px;
+    margin: initial;
+}
+li{
+    color: white;
+}
+button{
+    width: 10%;
+    height: 20%;
+    border: black;
+    margin: 10px;
+    background-color: gray;
 }
